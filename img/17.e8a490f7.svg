@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.597" height="97.545" viewBox="0 0 97.597 97.545">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.971" cy="0.037" r="1.15" gradientTransform="matrix(0.999, 0, 0, -1, 0, 1.845)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e44857"/>
+      <stop offset="0.47" stop-color="#c711e1"/>
+      <stop offset="1" stop-color="#7f52ff"/>
+    </radialGradient>
+  </defs>
+  <path id="kotlin-2" d="M97.6,97.545H0V0H97.6L47.792,48.048Z" fill="url(#radial-gradient)"/>
+</svg>
